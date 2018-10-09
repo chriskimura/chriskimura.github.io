@@ -1,0 +1,38 @@
+h1 {
+    color: red; 
+    font-family: Arial; font-size: 40px; font-weight: bold; font-style: italic; 
+    text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 80px;
+}
+
+h2 {
+    color: purple;
+    background-color: yellow;
+}
+
+#p1 {
+    color: blue;
+}
+
+#p1 {
+    color: skyblue;
+    text-decoration: underline;
+    background-color: darkblue; 
+}
+
+#p2 {
+    color: green;
+}
+
+.tacos {
+    font-size: 72px;
+    color: blue;
+}
+
+img {
+    height: 200px;
+}
