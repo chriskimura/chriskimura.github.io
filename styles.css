@@ -1,38 +1,41 @@
-h1 {
-    color: red; 
-    font-family: Arial; font-size: 40px; font-weight: bold; font-style: italic; 
-    text-shadow: 1px 1px 1px black;
+.navbar-dark {
+    background-color: rgb(20, 20, 20)
+}
+
+.navbar-brand {
+    font-family: Impact;
+
+}
+
+.jumbotron {
+    background-image: url(home-1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.logo {
+    height: 320px
+}
+
+body {
+    background-color: rgb(20, 20, 20)
 }
 
 h1 {
-    font-family: 'Homemade Apple', cursive;
-    font-size: 80px;
+    color: white;
+    text-align: center;
 }
 
-h2 {
-    color: purple;
-    background-color: yellow;
+tr {
+    color:white
 }
 
-#p1 {
-    color: blue;
+.h5 {
+    color: white;
+    font-size: 120 px;
+    vertical-align: middle;
 }
 
-#p1 {
-    color: skyblue;
-    text-decoration: underline;
-    background-color: darkblue; 
-}
-
-#p2 {
-    color: green;
-}
-
-.tacos {
-    font-size: 72px;
-    color: blue;
-}
-
-img {
-    height: 200px;
+.card {
+    background-color: rgb(200, 200, 200)  
 }
