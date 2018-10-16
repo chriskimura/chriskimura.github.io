@@ -3,7 +3,7 @@
 }
 
 .navbar-brand {
-    font-family: Impact;
+    font-family: 'Impact';
 }
 
 .nav-link {
@@ -21,16 +21,24 @@
     height: 100%;
 }
 
+.jumbotron-3 {
+    background-image: url(about-3.jpg);
+    height: 100%;
+}
+
 .jumbotron-4 {
     background-image: url(interior-hw.jpg);
+    height: 100%;
 }
 
 .jumbotron-5 {
     background-image: url(interior-pas.jpg);
+    height: 100%;
 }
 
 .jumbotron-6 {
     background-image: url(interior-sc.jpg);
+    height: 100%;
 }
 
 .logo {
