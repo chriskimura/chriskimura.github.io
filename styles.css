@@ -1,41 +1,80 @@
 .navbar-dark {
-    background-color: rgb(20, 20, 20)
+    background-color: rgb(20, 20, 20);
 }
 
 .navbar-brand {
     font-family: Impact;
+}
 
+.nav-link {
+    font-family: 'Oswald', sans-serif;
+}
+
+.dropdown-item {
+    font-family: 'Oswald', sans-serif;
 }
 
 .jumbotron {
     background-image: url(home-1.jpg);
     background-attachment: fixed;
     background-size: cover;
+    height: 100%;
+}
+
+.jumbotron-4 {
+    background-image: url(interior-hw.jpg);
+}
+
+.jumbotron-5 {
+    background-image: url(interior-pas.jpg);
+}
+
+.jumbotron-6 {
+    background-image: url(interior-sc.jpg);
 }
 
 .logo {
-    height: 320px
+    height: 320px;
 }
 
 body {
-    background-color: rgb(20, 20, 20)
+    background-color: rgb(20, 20, 20);
 }
 
 h1 {
     color: white;
     text-align: center;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 0px 0px 5px black;
 }
 
-tr {
-    color:white
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 0px 0px 5px black;
+    font-size: 48px;
 }
 
-.h5 {
+h5 {
     color: white;
-    font-size: 120 px;
+    font-size: 120px;
     vertical-align: middle;
 }
 
+.display-4 {
+    text-shadow: 0px 0px 5px black;
+}
+.lead {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0px 0px 5px black;
+    font-weight: bold;
+}
+
+tr {
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
 .card {
-    background-color: rgb(200, 200, 200)  
+    background-color: rgb(200, 200, 200);
 }
